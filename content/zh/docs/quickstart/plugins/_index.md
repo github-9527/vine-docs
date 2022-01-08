@@ -7,7 +7,7 @@ description: >
   
 ---
 ## 概述
-**Vine** 构建在 Go 接口之上。因此这些接口的实现是可插拔的。
+**Vine** 构建在 Go 接口之上。因此这些接口的实现是可插拔的。11111
 
 默认情况下，**Vine** 只提供核心上每个接口的几个实现，但它完全是可插拔的。而额外的实现保存在 [plugins](https://github.com/vine-io/plugins)。
 
